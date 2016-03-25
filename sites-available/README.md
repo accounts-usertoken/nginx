@@ -1,4 +1,4 @@
 
 #  Assign ports
 
-9000:	wix.pointlook.com
+8000:	parse.usertoken.com
